@@ -4,7 +4,7 @@
 
 # Simulação de Movimentação de Peças de Xadrez em C ♟️
 
-Este projeto foi desenvolvido como parte do desafio da disciplina de Programação em C, com foco no uso de estruturas de repetição para simular movimentos de peças do jogo de xadrez.
+Este projeto foi desenvolvido com foco no uso de estruturas de repetição para simular movimentos de peças do jogo de xadrez.
 
 ## Universidade Estácio de Sá
 
@@ -59,7 +59,7 @@ Simular os movimentos das peças **Torre**, **Bispo**, **Rainha** e **Cavalo**, 
 
 ## 📚 Aprendizado
 
-Este projeto visa exercitar o uso de **recursividade** e **estrutura de repetição aninhada** em C, reforçando o pensamento lógico e a organização de código modularizado.
+Este projeto visa exercitar o uso de **recursividade** e **estrutura de repetição aninhada** em C.
 
 ## 📎 Licença
 
